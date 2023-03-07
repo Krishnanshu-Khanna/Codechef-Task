@@ -1,0 +1,21 @@
+.b1{
+    width: 350px;
+    height: 350px;
+    background-color: yellow;
+    display: inline-block;
+    border-style: solid;
+}
+.b2{
+    width: 350px;
+    height: 350px;
+    background-color:blue;
+    display: inline-block;
+    border-style: solid;
+}
+.b3{
+    width: 350px;
+    height: 350px;
+    background-color: red;
+    display: inline-block;
+    border-style: solid;
+}
